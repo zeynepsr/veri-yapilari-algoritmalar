@@ -1,7 +1,7 @@
 # merge Sort projesi:
 ## [16,21,11,8,12,22]
 
-## 1- short türüne göre sıralanışı:
+## 1- sort türüne göre sıralanışı:
 
 ### [16,21,11,8,12,22](n)
 ### |16|21|11|   |8|12|22|
