@@ -1,4 +1,4 @@
-# Selection Short projesi:
+# Insertion Sort projesi:
 ## [22,27,16,2,18,6] (n)
 
 ## 1- short türüne göre sıralanışı:
@@ -17,7 +17,7 @@
 
 ### 18 sayısı dizinin ortasında olduğu için avarage case kapsamına girer.
 
-## [7,3,5,8,2,9,4,15,6] selection short'a göre ilk 4 adımı?
+## [7,3,5,8,2,9,4,15,6] selection sort'a göre ilk 4 adımı?
 
 ### [2,3,5,8,7,9,4,15,6] (1. adım)
 ### [2,3,4,8,7,9,4,15,6] (2.adım)
